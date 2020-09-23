@@ -4,7 +4,7 @@
 | :---: | :--- | :---: | 
 | 🚀 | **[Mock Demo of Industrial Training Program in Unity](#ROADMAP)** | 19/9/20 to ?|
 | 🚀 | **[Design Architecture - controllers,servers connection etc..](#ROADMAP)** | ? to ?|
-| 🚀 | **[Make 3D scene creation better](#ROADMAP)** | 19/9/20 to ?|
+| 🚀 | **[Make 3D scene creation better](#ROADMAP)** | ? to ?|
 
 ## WEEKLY MEETUPS
 
